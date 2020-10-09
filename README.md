@@ -2,10 +2,10 @@
 
 ## I'm a Developer, Student and Technology Enthusiast!!
 
-- 🔭 I’m currently working on Links Later and contributing to other Open Source Projects
-- 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate on Links Later
-- 💬 Excited about Ryzen 5000 series ❤
+- 🔭 I’m currently working on [Links Later](https://linkslater.herokuapp.com/) and contributing to other Open Source Projects.
+- 🌱 I’m currently learning Backend Development.
+- 👯 I’m looking to collaborate on [Links Later](https://github.com/TheDynamicPunk/linkslater-public).
+- 🤪 Excited about Ryzen 5000 series ❤
 
 <br />
 
