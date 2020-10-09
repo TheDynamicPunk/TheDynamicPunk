@@ -1,6 +1,6 @@
 ## Hi there, I'm Ashutosh - aka **TheDynamicPunk** 👋
 
-## I'm a Developer, Student and Technology Enthusiast!!
+## I'm a Developer, Student and a Technology Enthusiast!!
 
 - 🔭 I’m currently working on [Links Later](https://linkslater.herokuapp.com/) and contributing to other Open Source Projects.
 - 🌱 I’m currently learning Backend Development.
