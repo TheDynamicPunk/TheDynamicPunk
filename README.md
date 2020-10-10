@@ -42,4 +42,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ashutosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gupta-ashu)
+[<img align="left" alt="Ashutosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gupta-ashu){target=_b;ank}
