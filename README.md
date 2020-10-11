@@ -1,13 +1,11 @@
-## Hi there, I'm Ashutosh - aka **TheDynamicPunk** 👋
+# Hi there, I'm Ashutosh 👋
 
-## I'm a Developer, Student and a Technology Enthusiast!!
+### I'm a Student, Developer and a Technology Enthusiast!!
 
 - 🔭 I’m currently working on [Links Later](https://linkslater.herokuapp.com/) and contributing to other Open Source Projects.
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate on [Links Later](https://github.com/TheDynamicPunk/linkslater-public).
 - 🤪 Excited about Ryzen 5000 series ❤
-
-<br />
 
 ### Languages and Tools:
 
@@ -39,6 +37,8 @@
 
 <br/>
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheDynamicPunk&&show_icons=true&title_color=49d4ff&icon_color=39b8df&text_color=aaeaf9&bg_color=161616">
 
 ### Connect with me:
 
