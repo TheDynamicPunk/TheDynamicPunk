@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Links Later](https://linkslater.herokuapp.com/) and contributing to other Open Source Projects.
 - 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate on [Links Later](https://github.com/TheDynamicPunk/linkslater-public).
+- 👯 I’m looking to collaborate on [Links Later](https://github.com/TheDynamicPunk/links-later).
 - 🤪 Excited about Ryzen 5000 series ❤
 
 ### Languages and Tools:
