@@ -2,10 +2,10 @@
 
 ### I'm a Student, Developer and a Technology Enthusiast!!
 
-- 🔭 I’m currently working on [Links Later](https://linkslater.herokuapp.com/) and contributing to other Open Source Projects.
-- 🌱 I’m currently learning ReactJS.
+- 🔭 I’m currently working on [FrontLoop](https://frontloop-frontend.onrender.com/) and contributing to other Open Source Projects.
+- 🌱 I’m currently exploring AI and Agentic workflows.
 - 👯 I’m looking to collaborate on [Links Later](https://github.com/TheDynamicPunk/links-later).
-- 🤪 Excited about Ryzen 5000 series ❤
+- 🤪 Excited about the new MacBook Pros❤
 
 ### Languages and Tools:
 
