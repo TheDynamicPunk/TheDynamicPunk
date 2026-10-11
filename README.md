@@ -1,6 +1,6 @@
 # Hi there, I'm Ashutosh 👋
 
-### I'm a Student, Developer and a Technology Enthusiast!!
+### I'm a Senior Software Engineer @Target🎯, a Developer and a Technology Enthusiast!!
 
 - 🔭 I’m currently working on [FrontLoop](https://frontloop-frontend.onrender.com/) and contributing to other Open Source Projects.
 - 🌱 I’m currently exploring AI and Agentic workflows.
